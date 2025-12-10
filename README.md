@@ -132,7 +132,7 @@ Changes will be posted on this page with a revised “Last Updated” date.
 
 If you have questions about this Privacy Policy or wish to make a data request, please contact us:
 
-**Email:** jevinta@seas.upenn.edu
+**Email:** triptuner.help@gmail.com
 
 **Support Page:** https://github.com/jevinta/TripTuner-support
 
